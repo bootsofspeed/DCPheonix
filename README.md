@@ -7,11 +7,10 @@ This is an utility for dcinside. Some kinds of options are prepared. You can wri
 
 2. If you want use 'phoenix.py', you need many ids in dcinsde. And write id/pw in ids.txt manually.
 
-----ids.txt------- example
-[id] [pw] [f or n]
-[id] [pw] [f or n]
+ids.txt example
+dcinside_id1 password1 f
+dcinside_id2 password2 n
 #f : fixed nickname
 #n : non-fixed nickname
--------------------
 
 3. phoenix.py use OpenVPN on your computer. Install OpenVPN. And only tested on Ubuntu 16.04, Not on Windows serieses.
